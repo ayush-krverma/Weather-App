@@ -1,0 +1,30 @@
+.wetherBg{
+  background: url("https://wallpaperaccess.com/full/338807.jpg");
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: white;
+  font-weight: 700;
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  margin-bottom: 5%;
+}
+.weathericon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathercity{
+  font-size: 35px;
+}
+.weathertemp{
+  font-size: 55px;
+  font-weight: 700;
+}
